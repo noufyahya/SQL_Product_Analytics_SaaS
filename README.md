@@ -21,13 +21,14 @@ To analyze sales transaction data using SQL in order to evaluate revenue perform
 
 ▶️ Most of the revenue is coming from EMEA and AMER compared to APJ suggesting high maket preformance in those regions.
 
+**By Industry**
 
+<img width="300" height="150" alt="Image" src="https://github.com/user-attachments/assets/41c95755-685a-48d3-a1d5-a869aa64c00e" />
+
+▶️ The finance sector has contributed the most but it's also over than half that of tech sector 
 ### Profitability Analysis
-▶️ Sales & Product
 
-▶️ Margin% & Product
-
-
+**Negative Margin**
 <img width="350" height="371" alt="Image" src="https://github.com/user-attachments/assets/eb62aadc-99ea-4128-be74-9e47b9865acd" />
 <img width="350" height="371" alt="Image" src="https://github.com/user-attachments/assets/4f6c16c4-6dc7-4d7f-b1f7-03f28c9aa075" />
 
