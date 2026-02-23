@@ -29,6 +29,7 @@ To analyze sales transaction data using SQL in order to evaluate revenue perform
 ### Profitability Analysis
 
 **Negative Margin**
+
 <img width="350" height="371" alt="Image" src="https://github.com/user-attachments/assets/eb62aadc-99ea-4128-be74-9e47b9865acd" />
 <img width="350" height="371" alt="Image" src="https://github.com/user-attachments/assets/4f6c16c4-6dc7-4d7f-b1f7-03f28c9aa075" />
 
