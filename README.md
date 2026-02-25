@@ -2,6 +2,7 @@
 ### Objective
 To analyze sales transaction data using SQL in order to evaluate revenue performance, profitability, regional trends, and segment contribution to business growth.
 
+Content
 👉 Revenue analysis
 
 👉 Profitability analysis
@@ -42,6 +43,7 @@ To analyze sales transaction data using SQL in order to evaluate revenue perform
 <img width="350" height="371" alt="Image" src="https://github.com/user-attachments/assets/4f6c16c4-6dc7-4d7f-b1f7-03f28c9aa075" />
 
 
-▶️ High sales alone are NOT a reliable indicator of product success. The “Marketing Suite” demonstrates this, although it has strong revenue(sales), its  ➖negative margin highlights cost or pricing issues that reduce overall **profitability**.
+▶️ High sales alone are NOT a reliable indicator of product success. The “Marketing Suite” demonstrates this, although it has strong revenue(sales), its  ➖negative margin highlights cost or pricing issues that reduce overall profitability. 
+▶️ This indicates inefficient cost structure or underpricing. Continuing to scale this product without addressing margin leakage could reduce overall profitability. A pricing review or cost optimization initiative is required before further expansion.
 
 
