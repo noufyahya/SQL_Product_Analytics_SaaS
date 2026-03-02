@@ -27,6 +27,7 @@ To analyze sales transaction data using SQL in order to evaluate revenue perform
 <img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/c6736fea-c1e3-429f-a91c-da6f8544cedd" />
 
 ▶️ Most of the revenue is coming from EMEA and AMER compared to APJ suggesting high maket preformance in those regions.
+
 ▶️ The revenue gap between APJ and other regions highlights potential growth opportunities. Strategic localization efforts and region-specific offerings could help improve market penetration in APJ.
 
 **By Industry**
@@ -48,4 +49,9 @@ To analyze sales transaction data using SQL in order to evaluate revenue perform
 ▶️ The profitability analysis shows considerable variation in product margin performance across the portfolio. While several products achieve strong margin efficiency, others generate high sales but exhibit negative or low margins.
 
 ▶️ Products such as Marketing Suite, OneView, and ContactMatcher represent potential cost or pricing risk. This indicates that revenue growth alone is not sufficient to ensure business sustainability, and margin structure should be evaluated before scaling low-margin products.
+
+
+### Revenue vs Profit Contribution
+▶️ While certain products drive high revenue, profitability contribution varies significantly. This highlights the importance of evaluating financial performance beyond top-line growth.
+
 
