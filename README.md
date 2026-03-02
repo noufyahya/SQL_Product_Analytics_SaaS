@@ -33,19 +33,19 @@ To analyze sales transaction data using SQL in order to evaluate revenue perform
 
 <img width="400" height="250" alt="Image" src="https://github.com/user-attachments/assets/41c95755-685a-48d3-a1d5-a869aa64c00e" />
 
-▶️ The finance sector has contributed the most but it's also over than half that of tech sector 
+▶️ The finance industry contributes the highest revenue among industries, though the tech sector also shows strong performance, suggesting diversified but finance dominant demand. 
 
 
-### Profitability Analysis
+### Profitability and Margin Risk Analysis
 
-**Negative Margin**
+**Average Margin Distribution by Product**
 
-<img width="350" height="371" alt="Image" src="https://github.com/user-attachments/assets/eb62aadc-99ea-4128-be74-9e47b9865acd" />
-<img width="350" height="371" alt="Image" src="https://github.com/user-attachments/assets/4f6c16c4-6dc7-4d7f-b1f7-03f28c9aa075" />
+<img width="400" height="371" alt="Image" src="https://github.com/user-attachments/assets/161f1898-ff03-4910-beb2-7a7d82ed2b42" />
 
 
-▶️ High sales alone are NOT a reliable indicator of product success. The “Marketing Suite” demonstrates this, although it has strong revenue(sales), its  ➖negative margin highlights cost or pricing issues that reduce overall profitability. 
-<br/>
-▶️ This indicates inefficient cost structure or underpricing. Continuing to scale this product without addressing margin leakage could reduce overall profitability. A pricing review or cost optimization initiative is required before further expansion.
 
+
+▶️ The profitability analysis shows considerable variation in product margin performance across the portfolio. While several products achieve strong margin efficiency, others generate high sales but exhibit negative or low margins.
+
+▶️ Products such as Marketing Suite, OneView, and ContactMatcher represent potential cost or pricing risk. This indicates that revenue growth alone is not sufficient to ensure business sustainability, and margin structure should be evaluated before scaling low-margin products.
 
