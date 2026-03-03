@@ -72,7 +72,6 @@ order by total_sales desc
 -- 5️⃣ Monthly Revenue Trend by Product
 -- Business Question:
 -- How does revenue evolve over time?
--- Are there seasonal patterns or product growth trends?
 -- Date formatting logic converts raw text into YYYY-MM format.
 -- ------------------------------------------------------------
 SELECT 
@@ -92,7 +91,7 @@ SELECT
     Product ,
     SUM(sales) AS revenue
 FROM sales_data
-GROUP BY Product ,month
+GROUP BY month
 ORDER BY month;
 
 -- ------------------------------------------------------------
